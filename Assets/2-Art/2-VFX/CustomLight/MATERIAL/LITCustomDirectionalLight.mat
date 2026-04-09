@@ -102,7 +102,7 @@ Material:
     - _AO: 3
     - _AO_Strenght: 1
     - _Boolean: 0
-    - _Contrast_Light: 0.5
+    - _Contrast_Light: 0
     - _Float: -1.02
     - _Float_1: 0
     - _Lighting: 1
@@ -112,7 +112,7 @@ Material:
     - _Normal_Strenght: 1
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Shinny: -1
+    - _Shinny: -2.69
     - _Smoothness: 0.2
     - _Smoothness_Power: 0.2
     - _StoredIntensity: 0
